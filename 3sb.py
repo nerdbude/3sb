@@ -44,14 +44,14 @@ def main():
         ver = "0.5"
 
         # PATH Variablen
-        root_dir        = ("/home/pho/CODE/3sb/")
-        parent_dir      = ("/home/pho/CODE/3sb/new_post")
-        template_post   = ("/home/pho/CODE/3sb/templates/post.html")
-        template_footer = ("/home/pho/CODE/3sb/templates/footer.html")
-        template_header = ("/home/pho/CODE/3sb/templates/header.html")
-        template_menu   = ("/home/pho/CODE/3sb/templates/menu.html")
-        new_post        = ("/home/pho/CODE/3sb/new_post/")
-        all_posts       = ("/home/pho/CODE/3sb/structure/posts/de/")
+        root_dir        = ("/home/user/CODE/3sb/")
+        parent_dir      = ("/home/user/CODE/3sb/new_post")
+        template_post   = ("/home/user/CODE/3sb/templates/post.html")
+        template_footer = ("/home/user/CODE/3sb/templates/footer.html")
+        template_header = ("/home/user/CODE/3sb/templates/header.html")
+        template_menu   = ("/home/user/CODE/3sb/templates/menu.html")
+        new_post        = ("/home/user/CODE/3sb/new_post/")
+        all_posts       = ("/home/user/CODE/3sb/structure/posts/de/")
 
         if command == "?":
         # HELP
